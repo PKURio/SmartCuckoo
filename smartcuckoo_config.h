@@ -3,6 +3,6 @@
 #include <string>
 
 typedef std::string Data;
-#define __SC_POWER 20
+#define __SC_POWER 18
 
 #endif //_SMARTCUCKOO_CONFIG_H_
